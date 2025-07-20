@@ -1,0 +1,16 @@
+username,login_time,location,time_of_day,is_anomaly
+ali,9,Lahore,morning,No
+ali,9,Lahore,morning,No
+ahmed,10,Karachi,morning,No
+ali,9,Lahore,morning,No
+ahmed,10,Karachi,morning,No
+hassan,8,Islamabad,morning,No
+ali,9,Lahore,morning,No
+unknown,3,Unknown,night,No
+unknown,2,Unknown,night,No
+ahmed,22,Karachi,night,Yes
+ali,6,Lahore,morning,No
+ahmed,23,Lahore,night,Yes
+hassan,7,Islamabad,morning,No
+hassan,9,Karachi,morning,No
+unknown,1,Unknown,night,No
